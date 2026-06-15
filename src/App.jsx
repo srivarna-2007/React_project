@@ -1,7 +1,7 @@
 import AddNewDoctor from "./components/AddNewDoctor"
 import Doctorcard from "./components/Doctorcard"
 import Navbar from "./components/Navbar"
-import Section from "./components/section"
+import Section from "./components/Section"
 import './components/styles.css'
 
 function App(){
