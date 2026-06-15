@@ -1,4 +1,4 @@
-import AddNewDoctor from "./components/AddNewDoctor"
+import AddNewDoctor from "./components/Addnewdoctor"
 import Doctorcard from "./components/Doctorcard"
 import Navbar from "./components/Navbar"
 import Section from "./components/Section"
